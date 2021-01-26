@@ -18,5 +18,8 @@ This is a minimal code part of my assignment for the graduate course Speech Reco
 
 ## Notes
  - Two types of local constraints are implemented in this project. (type I and II as shown below)
+ ![local constraints](lc.png)
+ 
+ 
  - You can enable/disable weighting in the DTW  (it may change the results)
  - Speech features included in this project are: spectrogram, mfcc, lpc, plp
